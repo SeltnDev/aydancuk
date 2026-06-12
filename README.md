@@ -4,7 +4,7 @@
 
 ```
 sudo apt install git
-git clone https://gitlab.com/seltn/aydancuk
+git clone https://github.com/SeltnDev/aydancuk/
 cd aydancuk
 sudo ./install.sh
 ```
